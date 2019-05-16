@@ -4,3 +4,7 @@
  * @file
  * Drupal needs this blank file.
  */
+
+function abc() {
+     moo();
+}
